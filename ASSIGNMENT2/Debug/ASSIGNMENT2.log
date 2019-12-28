@@ -1,0 +1,6 @@
+﻿  ASSIGNMENT2.cpp
+C:\Users\lenovo\source\repos\ASSIGNMENT2\ASSIGNMENT2\Trader.h(28,20): warning C4099:  'Trader': type name first seen using 'class' now seen using 'struct'
+C:\Users\lenovo\source\repos\ASSIGNMENT2\ASSIGNMENT2\Trader.h(9): message :  see declaration of 'Trader'
+C:\Users\lenovo\source\repos\ASSIGNMENT2\ASSIGNMENT2\Trader.h(49,20): warning C4099:  'Trader': type name first seen using 'class' now seen using 'struct'
+C:\Users\lenovo\source\repos\ASSIGNMENT2\ASSIGNMENT2\Trader.h(9): message :  see declaration of 'Trader'
+  ASSIGNMENT2.vcxproj -> C:\Users\lenovo\source\repos\ASSIGNMENT2\Debug\ASSIGNMENT2.exe
